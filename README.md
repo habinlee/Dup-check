@@ -24,3 +24,6 @@ Function
     - mode : ‘r’ for read-only, ‘w’ for using the whole service (including write function)
 - Using the information given by parameters, after the reduplication checking process if there are duplicate data, maximum of 5 items that have the same hash value are returned in json format
 - Applied data security configuration using token, cors_allow_origin, header referer information from the http header
+
+Sequence Diagram
+![sequenc_diagram](https://user-images.githubusercontent.com/88265967/127762525-07c26d9d-fa07-45a7-8669-082a2ea5cc88.png)
