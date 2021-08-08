@@ -3,4 +3,4 @@ service: cw-dup-check
 
 env_variables:
   CW_DUPCHECK_TOKEN: "{cw-token}"
-  CORS_ALLOW_ORIGINS: "http://local.crowdworks.kr:8080,http://www.crowdworks.kr,https://dev.crowdworks.kr,https://stg.crowdworks.kr,https://www.crowdworks.kr"
+  CORS_ALLOW_ORIGINS: "{Origin sites should go in here}"
