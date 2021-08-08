@@ -27,3 +27,6 @@ Function
 
 Sequence Diagram
 ![sequenc_diagram](https://user-images.githubusercontent.com/88265967/127762525-07c26d9d-fa07-45a7-8669-082a2ea5cc88.png)
+
+Related Documents :
+- How to use GCP Datastore : [GCP Datastore.pdf](https://github.com/habinlee/Dup-check/files/6950384/GCP.Datastore.pdf)
