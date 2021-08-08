@@ -1,0 +1,68 @@
+indexes:
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Project_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: User_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Project_ID
+      direction: asc
+    - name: User_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Data_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Project_ID
+      direction: asc
+    - name: Data_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Data_ID
+      direction: asc
+    - name: User_ID
+      direction: asc
+
+- kind: dupcheck
+  ancestor: no
+  properties:
+    - name: Hash_Value
+      direction: asc
+    - name: Project_ID
+      direction: asc
+    - name: User_ID
+      direction: asc
+    - name: Data_ID
+      direction: asc
+
