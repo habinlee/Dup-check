@@ -1,6 +1,5 @@
 # Dup-check
 
-Outline\n
 This service is a newly added function to the Crowdworks next generation crowd sourced data production platform. It detects reduplication of image/text data that the platform users have submitted by storing each data in GCP Datastore and comparing newly added data to the originally recorded data. Its purpose is to prevent fraudulent usage of the service and keep the financial rewards of every project fair.
 
 Environment
